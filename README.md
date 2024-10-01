@@ -54,4 +54,3 @@ Contributions to enhance the games, add new features, or improve the AI algorith
 
 ---
 
-Created with ❤️ in 2023 by [Son Nguyen](https://github.com/hoangsonww). All rights reserved.
